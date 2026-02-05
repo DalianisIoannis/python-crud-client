@@ -1,4 +1,6 @@
-# CRUD-AppiClient
+# Python CRUD API Client
+
+A lightweight, modular Python client designed to interact with RESTful APIs, providing full Create, Read, Update, and Delete functionality.
 
 We have access to a movies database which is accessible through a REST API on a specific URL. The database holds the following data:
 ```bash
